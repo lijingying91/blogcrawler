@@ -1,0 +1,6 @@
+/App/Runtime/
+/Uploads/*
+/node_modules/*
+/Log/*
+/Data/
+config.js
